@@ -198,7 +198,7 @@ API 代码将不会在 client side 的 bundle 里。
 
 部署这一块 Next.js 推荐使用 [Vercel](https://vercel.com/dashboard) 来部署。
 
-因类 Vercel 本身就是为 Next.js 服务的，所以只需要连上 Github Repo 就可以一键部署了。
+因为 Vercel 本身就是为 Next.js 服务的，所以只需要连上 Github Repo 就可以一键部署了。
 
 ## 总结
 
